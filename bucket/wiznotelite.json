@@ -1,0 +1,18 @@
+{
+    "version": "1.0.2",
+    "description": "WizNote Lite",
+    "homepage": "https://www.wiz.cn/",
+    "architecture": {
+        "64bit": {
+            "url": "http://get.wiz.cn/Lite/WizNote%20Lite%201.0.2.msi",
+            "hash": "34b7ef0794babbea00be3b17e61624cfb05b43ccb9d66921a1c8884714c87e40"
+        }
+    },
+    "extract_dir": "wiznotelite",
+    "shortcuts": [
+        [
+            "WizNote Lite.exe",
+            "WizNote Lite"
+        ]
+    ]
+}
