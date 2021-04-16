@@ -1,9 +1,9 @@
 {
     "homepage": "http://picat-lang.org/",
     "description": "Picat is a simple, and yet powerful, logic-based multi-paradigm programming language aimed for general-purpose applications.",
-    "version": "3.0.3",
+    "version": "3.0.6",
     "license": "MPL-2.0",
-    "url": "https://github.com/boltomli/MyWinScripts/releases/download/3.0%233/picat-windows-amd64.exe.zip",
-    "hash": "sha512:a95317341af582d5679ed0d3422a532c7afd103236befc620d9ec0c42d65f148c5c56080156f08748458ab9d217253959bbe2b08b2d531413b5c02e2f5deff7d",
+    "url": "https://github.com/boltomli/MyWinScripts/releases/download/3.0%236/picat-windows-amd64.exe",
+    "hash": "sha512:6b71dcf7639b4e8025aed0d5a419efdaeeddaff484b74dde37fbb1adc767d59a3124494e53d1e379b5cc625b1d4caae01fee670f08c3b9b952388a0257227e76",
     "bin": [ [ "picat-windows-amd64.exe", "picat" ] ]
 }
