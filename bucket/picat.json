@@ -4,6 +4,6 @@
     "version": "3.0.6",
     "license": "MPL-2.0",
     "url": "https://github.com/boltomli/MyWinScripts/releases/download/3.0%236/picat-windows-amd64.exe.zip",
-    "hash": "sha512:642bf8d7ff4add94f12757e1314ea97ffdbc6601bca92ceb27dde303e4c27f7f931c78df1309dcb8b2b16cbc434e33aff2d3f46e6d3de4771d7bb46da8327c29",
+    "hash": "sha512:8878bb4f995aaa1fe929141985598c361bc07fd3f37ce2c41a3580884ad97e893420d86b41edf1c69df8acdbef84336aae58ec9b7f8b20282e3427c48b88643a",
     "bin": [ [ "picat-windows-amd64.exe", "picat" ] ]
 }
