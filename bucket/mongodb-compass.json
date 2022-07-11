@@ -1,5 +1,5 @@
 {
-    "version": "1.31.3",
+    "version": "1.32.2",
     "description": "As the GUI for MongoDB, MongoDB Compass allows you to make smarter decisions about document structure, querying, indexing, document validation, and more.",
     "homepage": "https://www.mongodb.com/try/download/compass",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://downloads.mongodb.com/compass/mongodb-compass-1.31.3-win32-x64.zip",
-            "hash": "sha512:ba3ae1e1bc559f18bb97523127db3bd49a4f6a2b79980bcf2a4021ef0e2018c3ad15202fc7247b0fe07e98e5a01e267591196342378fd7a8fd4dff9321d1eebf"
+            "url": "https://downloads.mongodb.com/compass/mongodb-compass-1.32.2-win32-x64.zip",
+            "hash": "sha512:5ef3d13c07299bdd8eba92d41ba3db9d3425b2fc916fbc628839ee607dcf4cb6d55f3d5bf8db6f13780fffc2aee30e5a55aa59b4d6e574e07be1b9d747a69eb5"
         }
     },
     "bin": "MongoDBCompass.exe",
