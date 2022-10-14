@@ -1,5 +1,5 @@
 {
-    "version": "2201.1.1",
+    "version": "2201.2.1",
     "description": "Ballerina is an open-source programming language for the cloud that makes it easier to use, combine, and create network services.",
     "homepage": "https://ballerina.io",
     "license": {
@@ -8,9 +8,9 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://dist.ballerina.io/downloads/2201.1.1/ballerina-2201.1.1-swan-lake.zip",
-            "hash": "sha512:d6bacc0a6ca876acc223aa8ec91b3167475d84a73e8256cd1712945130bf26fa447a6c0d91699c303f59722aaf02331b186155125814d86cda670b401e93de1b"
+            "url": "https://dist.ballerina.io/downloads/2201.2.1/ballerina-2201.2.1-swan-lake.zip",
+            "hash": "sha512:afbd061b768f4cffb26de2a72d0eab7c9e297541c62c18bd1fefb88b8ac8226fb4731458e2deceb41fa4f2c0874d350cf8f94f5753958308f136f839b771f13a"
         }
     },
-    "bin": "ballerina-2201.1.1-swan-lake\\bin\\bal.bat"
+    "bin": "ballerina-2201.2.1-swan-lake\\bin\\bal.bat"
 }
