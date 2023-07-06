@@ -7,12 +7,6 @@
         "url": "https://xcloudsingblob.z3.web.core.chinacloudapi.cn/assets/X%20Studio%C2%B7%E6%AD%8C%E6%89%8B%E8%BD%AF%E4%BB%B6_%E7%94%A8%E6%88%B7%E5%8D%8F%E8%AE%AE_2022.pdf"
     },
     "url": "https://xcloudsingblob.blob.core.chinacloudapi.cn/xstudio-public/legacy/XStudioSinger_2.0.2.zip",
-    "hash": "sha256:9ff56f932468237ee4f29d61d7e4f6e4403d88871948d8fea4092bb52e0dde53",
-    "installer": {
-        "script": [
-            "Expand-7zipArchive \"$dir\\XStudioSinger_2022-01-30_2.0.2\\XStudioSinger_installer_2.0.2.exe\" \"$dir\"",
-            "Remove-Item \"$dir\\XStudioSinger_2022-01-30_2.0.2\" -Force -Recurse"
-        ]
-    },
-    "bin": [ [ "XStudioSinger.exe", "XStudioSingerBeta" ] ]
+    "hash": "sha256:f5dc0d8136b75dd60515610d5f645d63dcf9b9093fe7ba14e0d30e5d527adda1",
+    "bin": [ [ "XStudio_2.0.2_green_ver\\XStudioSinger.exe", "XStudioSingerBeta" ] ]
 }
