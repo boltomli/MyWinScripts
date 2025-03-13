@@ -6,8 +6,8 @@
         "identifier": "Freeware",
         "url": "https://xcloudsingblob.z3.web.core.chinacloudapi.cn/assets/X%20Studio%C2%B7%E6%AD%8C%E6%89%8B%E8%BD%AF%E4%BB%B6_%E7%94%A8%E6%88%B7%E5%8D%8F%E8%AE%AE_2022.pdf"
     },
-    "url": "https://xcloudsingblob.blob.core.chinacloudapi.cn/xstudio-public/legacy/XStudioSinger_1.8.1.zip",
-    "hash": "sha256:a4bdd203612b74ebb12e2c2f6dccd91635a82e7082da4e21cfbad3d22f23ad17",
+    "url": "https://xcloudsing.xiaoice.com/xstudio-public/legacy/XStudioSinger_1.8.1.zip",
+    "hash": "sha512:887f538c049e54666d97a75f1ce52cfad500355736f7224fc4d6ce622ac075fc292f3abcde9fd1b326c857ed66365ffe46fed0f42f5401a73f8b57ff538e6edd",
     "installer": {
         "script": [
             "Expand-7zipArchive \"$dir\\XStudioSinger_installer_1.8.1.exe\" \"$dir\"",
