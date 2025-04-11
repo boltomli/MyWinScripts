@@ -1,9 +1,9 @@
 {
     "homepage": "https://picat-lang.org/",
     "description": "Picat is a simple, and yet powerful, logic-based multi-paradigm programming language aimed for general-purpose applications.",
-    "version": "3.8",
+    "version": "3.8.7",
     "license": "MPL-2.0",
-    "url": "https://picat-lang.org/download/picat38_mingw64.zip",
-    "hash": "sha512:37ebabae258960232672d83b28200a8e8b2ac7d852898bac572561ac17d96f20a2840753e561664aa795bf2b4e176081fc0642527f367dd2704bd588e1664cca",
+    "url": "https://picat-lang.org/download/picat387_mingw64.zip",
+    "hash": "sha512:a954862a1d87abc33f6ebc6e710333921e7e54850daafc29553dc99aad8cff1090564b5156c91c5fd5695eda4426261b6e679b281b7c110a9147e01cfedbb2f0",
     "bin": [ [ "Picat\\picat.exe", "picat" ] ]
 }
